@@ -7,7 +7,7 @@
   - [Justifications for Selection](#justifications-for-selection)
   - [Conclusion](#conclusion)
 
-## Introduction
+# Introduction
 AWS Cost Explorer is a tool provided by Amazon Web Services (AWS) that allows users to visualize, understand, and manage their AWS costs and usage. While its primary focus is on overall cost management and optimization, it can also be used to analyze costs related to specific resources deployed within a cluster environment.
 ![Screenshot 3](Screenshot%20from%202024-01-31%2019-21-42.png)
 
