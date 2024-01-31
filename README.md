@@ -1,7 +1,8 @@
 # AWS Cost Explorer
 
-### Introduction
+## Introduction
 AWS Cost Explorer is a tool provided by Amazon Web Services (AWS) that allows users to visualize, understand, and manage their AWS costs and usage. While its primary focus is on overall cost management and optimization, it can also be used to analyze costs related to specific resources deployed within a cluster environment.
+![Screenshot 1](path_to_your_repository/Screenshot%20from%202024-01-31%2018-50-57.png)
 
 ### Capabilities in Pricing Resource Deployment
 1. Cost Visualization AWS Cost Explorer provides various visualizations, including cost breakdowns by service, usage type, region, and tag. This can help in understanding the cost distribution of resources deployed within a cluster.
@@ -11,6 +12,7 @@ AWS Cost Explorer is a tool provided by Amazon Web Services (AWS) that allows us
 3. Forecasting The tool offers forecasting capabilities to estimate future costs based on historical usage patterns. This can assist in predicting and planning for the cost impact of resource deployment in a cluster.
 
 4. Cost Reports AWS Cost Explorer allows users to generate custom cost reports that provide detailed insights into AWS spending. These reports can include information about resources deployed in a cluster and their associated costs.
+![Screenshot 2](path_to_your_repository/Screenshot%20from%202024-01-31%2018-49-43.png)
 
 ### Justifications for Selection
 1. Integration with AWS AWS Cost Explorer seamlessly integrates with AWS services, providing comprehensive cost analysis for resources deployed within AWS, including those in a cluster environment.
@@ -20,6 +22,8 @@ AWS Cost Explorer is a tool provided by Amazon Web Services (AWS) that allows us
 3. Forecasting and Reporting The forecasting and reporting capabilities of AWS Cost Explorer provide valuable insights for budgeting, forecasting, and optimizing costs related to cluster resources.
 
 4. Overall Effectiveness Considering its integration with AWS services, ease of use, and robust forecasting and reporting capabilities, AWS Cost Explorer emerges as the most effective tool for analyzing the cost of specific resources deployed within a cluster.
+![Screenshot 3](path_to_your_repository/Screenshot%20from%202024-01-31%2018-49-19.png)
+![Screenshot 4](path_to_your_repository/Screenshot%20from%202024-01-31%2018-49-00.png)
 
 ### Conclusion
 AWS Cost Explorer offers a comprehensive set of features for analyzing AWS costs, including those related to resources deployed within a cluster. Its capabilities in cost visualization, resource grouping, forecasting, and reporting make it a suitable choice for determining the price of specific resources within a cluster environment.
